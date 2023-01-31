@@ -1,1 +1,1 @@
-my first commit to edit in the github
+im a student at alx for fullstack software 
